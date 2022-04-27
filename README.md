@@ -3,7 +3,7 @@ Aplicación móvil que califica la calidad del sueño, El objetivo es llevar un 
 
 
 ## Tecnologias Implementadas
-* Base de datos ROOM
+* Base de datos ROOM (SQLite)
 * Corrutinas
 * RecyclerView
 * Data Binding
